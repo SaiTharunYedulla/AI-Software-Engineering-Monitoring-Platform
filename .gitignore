@@ -43,6 +43,9 @@ coverage/
 *.tmp
 *.temp
 .cache/
+SETUP.md
+Project_Context.md
+AI_Rules.md
 
 # OS
 Thumbs.db
